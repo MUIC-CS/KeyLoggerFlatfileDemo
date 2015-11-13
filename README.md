@@ -5,10 +5,11 @@ A Sample program for how to use serialization as persistent Database.
 
 Open this in Eclipse and run. All the source are in src/ if you use other tools.
 
-The program will keep reading the input for commands. 
- 1) 'quit' to exit the program.
- 2) 'list' to list the key and the time in database.
- 3) 'reset' to reset the database.
+The program will keep reading the input for commands.
+
+ 1. 'quit' to exit the program.
+ 2. 'list' to list the key and the time in database.
+ 3. 'reset' to reset the database.
 
 If you enter any other string, the string will be saved to the database along
 with the time.
